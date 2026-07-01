@@ -1,0 +1,1 @@
+# sketchup-ai-skill
